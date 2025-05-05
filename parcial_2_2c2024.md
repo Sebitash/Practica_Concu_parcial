@@ -65,3 +65,9 @@ correctamente no hay que preocuparse por condiciones de carrera
 ### D
 
 Falso, las condvar pueden despertarse esporadicamente incluso si no se les envió una señal.
+
+## Ejercicio 5
+
+### actores, cafe
+
+![diagrama de actores de cafe](actores_cafe.png)
